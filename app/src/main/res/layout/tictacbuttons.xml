@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonTicTacGrid1x1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+
+        <Button
+            android:id="@+id/buttonTicTacGrid1x2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+
+        <Button
+            android:id="@+id/buttonTicTacGrid1x3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonTicTacGrid2x1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+
+        <Button
+            android:id="@+id/buttonTicTacGrid2x2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+
+        <Button
+            android:id="@+id/buttonTicTacGrid2x3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/buttonTicTacGrid3x1"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+
+        <Button
+            android:id="@+id/buttonTicTacGrid3x2"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+
+        <Button
+            android:id="@+id/buttonTicTacGrid3x3"
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:text="@string/ticTacToeGrid_emptyText" />
+    </LinearLayout>
+</merge>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../../../../../debian/mnt/uxiesan/Sourcecode/AndroidApps/ITC162/A4TicTacToe/A4TicTacToe.iml" filepath="$PROJECT_DIR$/../../../../../debian/mnt/uxiesan/Sourcecode/AndroidApps/ITC162/A4TicTacToe/A4TicTacToe.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../../../../debian/mnt/uxiesan/Sourcecode/AndroidApps/ITC162/A4TicTacToe/app/app.iml" filepath="$PROJECT_DIR$/../../../../../debian/mnt/uxiesan/Sourcecode/AndroidApps/ITC162/A4TicTacToe/app/app.iml" />
+    </modules>
+  </component>
+</project>
